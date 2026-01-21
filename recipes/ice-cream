@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+       <h1>Vanilla ice cream</h1> 
+        <!-- Link back to index -->
+         <a href="../index">Home</a>
+
+         <!-- image of Ice Crean  -->
+         
+        <img src="../img/od" alt="Picture of Vaniila ice cream" height="300" width="300">
+        <h4>This is a very easy raw milk ice cream recipe</h4>
+        <h5>Ingredients</h5>
+        <ul>
+            <li>4 cups Raw Milk poured out from the Galllon jar</li>
+            <li>3/4 cuo sugar or Maple syrup</li>
+            <li>1 Tablespoon vanilla</li>
+        </ul>
+        <h5>Steps</h5>
+        <ol>
+            <li>Pour 4 cups of raw milk without stirring it first into a measuring cup</li>
+            <li>Whisk in sugar/Maple syrup unit dissolved</li>
+            <li>immediatelay pour into your ice cream maker (if your freezer bowl sets out for more then 15 minutes re chill)</li>
+            <li>Churn your ice cream</li>
+            <li>Once your ice cream is done immediately eat or freeze unti ready</li>
+        </ol>
+        <h5>Note</h5>
+        <p>The sugar is what prevents ice crystals from forming</p>
+        
+</body>
+</html>
