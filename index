@@ -9,8 +9,18 @@
 
     <h1>Odin Recipes</h1>
     <!-- Recipe links -->
-    <a href="../odin-recipes/recipes/ice-cream">Vanilla Ice cream </a>
-
+   <ul>
+   <li> <a href="../odin-recipes/recipes/ice-cream">Vanilla Ice cream </a> </li>
+   <li><a href="../odin-recipes/recipes/Korean-Venison.html">Korean Beef</a> </li>
+    <li> <a href="../odin-recipes/recipes/chicken-corn-chowder.html">Chicken Corn Chowder</a></li>
+    </ul>
+    <h2>Links to recipes</h2>
+    <ul>
+        <li><a href="https://thecozycook.com/chicken-corn-chowder/">Chicken corn chowder</a></li>
+        <li><a href="https://venisonfordinner.com/elaines-simple-no-cook-no-eggs-raw-milk-ice-cream-recipe/">Ice cream</a></li>
+        <li><a href="https://venisonfordinner.com/korean-style-venison/">Korean beef</a></li>
+        
+    </ul>
 
 </body>
 </html>
